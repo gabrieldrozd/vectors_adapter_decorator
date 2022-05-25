@@ -348,3 +348,13 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+.idea/.idea.lab08/.idea/
+
+.idea/sonarlint/issuestore/9/6/9616cdb04b0302021a51c496d7645053df318baf
+
+.idea/sonarlint/issuestore/a/c/
+
+.idea/sonarlint/issuestore/a/d/
+
+*.pb
